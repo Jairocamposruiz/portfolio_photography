@@ -2,9 +2,9 @@
     "title": "Stackbit Exto Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
-        "title": "Exto",
+        "title": "JCodeR Photography",
         "has_nav": true,
         "nav_links": [
             {
@@ -40,28 +40,14 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Created by <a href=\"https://www.jcoder.es\" target=\"_blank\" rel=\"noopener\">www.Jcoder.es</a>.",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/jairo_c_r/",
                 "style": "icon",
                 "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
                 "new_window": true
             },
             {

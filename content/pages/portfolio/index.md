@@ -1,7 +1,10 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: For more information about location click on the photo.
 layout_style: mosaic
+
+hola
+
 seo:
   title: Portfolio
   description: This is the portfolio page
