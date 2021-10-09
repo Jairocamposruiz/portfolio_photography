@@ -1,13 +1,10 @@
 ---
 title: Portfolio
-subtitle: For more information about location click on the photo.
+subtitle: Aquí puedes ver algunas de mis fotos si entra a cualquiera de ellas podrá ver más información.
 layout_style: mosaic
-
-hola
-
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: Este es mi portfolio fotográfico
   extra:
     - name: 'og:type'
       value: website
@@ -16,10 +13,10 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: Este es mi portfolio fotográfico
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,9 +24,9 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: Este es mi portfolio fotográfico
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
       relativeUrl: true
 layout: portfolio
 ---

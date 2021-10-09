@@ -1,41 +1,41 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
-image_alt: A man taking a picture
+title: Acerca de mi
+subtitle:
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo1.jpg
+image_alt: Mi foto
 seo:
-  title: About Us
-  description: This is the about us page
+  title: JCodeR Photography Acerca de mi
+  description: Acerca de mi
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Acerca de mi
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Acerca de mi
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Acerca de mi
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Acerca de mi
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo1.jpg
       relativeUrl: true
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Mi mayor pasión siempre ha sido la programación seguido de la fotografía por ello quise hacer esta página donde unir
+ambas.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Allá donde valla siempre me verás con un portatil y una camara en las manos.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+Esta página empezó como un proyecto donde poder practicar algunas de las tecnologías que iba aprendiendo pero intentaré
+ir añadiendo contenido si mi tiempo me lo permite.

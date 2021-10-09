@@ -1,11 +1,11 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle:
 hide_title: false
-col_number: three
+col_number: two
 seo:
-  title: Blog
-  description: This is the blog page
+  title: JCodeR Photography Blog
+  description: Este es un blog de fotografía y viaje donde intentaré ir subiendo contenido.
   extra:
     - name: 'og:type'
       value: website

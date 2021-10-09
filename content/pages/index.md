@@ -4,31 +4,32 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I am Jairo and this is my photographic portfolio.'
+    title: 'Hola, me llamo Jairo y este es mi portfolio fotográfico.'
     content: >-
-      I am programmer, and I love the photography this is one of my projects if you want to see
-      more you can go to <a href="http://www.jcoder.es/" target="_blank">JCodeR.es</a>.
+      Mi mayor pasión es la programación seguido por la fotografía quise hacer esta página donde juntar ambas,
+      si quieres ver más de mis proyectos de programación puedes visitar
+      <a href="http://www.jcoder.es/" target="_blank">www.JCodeR.es</a> donde además podrás contactar conmigo.
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: My last pictures.
+    title: Mis últimas fotos.
     subtitle:
-    projects_number: 6
-    view_all_label: View All
+    projects_number: 4
+    view_all_label: Ver Más
     view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Últimas entradas del Blog
     subtitle:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Ver Más
         url: blog
         style: button
 seo:
   title: JCodeR Photography
-  description: I am programmer and I love photography this is one of my projects.
+  description: Soy programador y adoro la fotografía, este es mi portfolio fotográfico.
   extra:
     - name: 'og:type'
       value: website
@@ -37,10 +38,10 @@ seo:
       value: JCodeR Photography
       keyName: property
     - name: 'og:description'
-      value: I am programmer and I love photography this is one of my projects
+      value: Soy programador y adoro la fotografía, este es mi portfolio fotográfico.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -48,9 +49,9 @@ seo:
     - name: 'twitter:title'
       value: JCodeR Photography
     - name: 'twitter:description'
-      value: I am programmer and I love photography this is one of my projects
+      value: Soy programador y adoro la fotografía, este es mi portfolio fotográfico.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
       relativeUrl: true
 layout: advanced
 ---

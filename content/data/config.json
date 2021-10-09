@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Mi portfolio fotográfico",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "blue",
@@ -8,7 +8,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "url": "/",
                 "style": "link"
             },
@@ -23,17 +23,12 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "Acerca de mi",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contácto",
                 "url": "/contact/",
                 "style": "link"
             }

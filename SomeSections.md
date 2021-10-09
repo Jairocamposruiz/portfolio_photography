@@ -57,3 +57,6 @@ actions:
   - label: Let's talk
     url: /contact
     style: button
+
+
+![texto_alternativo](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo1.jpg)

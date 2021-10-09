@@ -1,13 +1,11 @@
 ---
-title: Why Fonts Matter
+title: Lince Ibérico en Sierra Morena
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
-date: '2019-03-27'
-thumb_image: images/12_thumb.jpg
+  Acompáñame a ver el Lince Ibérico en su habitat, un felino en peligro de extición el cual puedes ver en Sierra Morena(Jaen)
+date: '2021-10-09'
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/lince-iberico-3.jpg
 thumb_image_alt: A pile of books on the table
-image: images/12.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/lince-iberico-3.jpg
 image_alt: A pile of books on the table
 seo:
   title: Why Fonts Matter
@@ -48,7 +46,7 @@ layout: post
 
 Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+> adfadfa
 
 Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
 
