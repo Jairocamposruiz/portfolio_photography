@@ -1,62 +1,60 @@
 ---
-title: Contact
+title: Contacto
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      Hola gracias por estar interesado en contactar conmigo rellene el formulario e intentaré contestarle en la menor
+      brevedad.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Tu dirección de email
         is_required: true
       - input_type: select
         name: subject
-        label: Subject
-        default_value: Please select
+        label: Tipo de consulta
+        default_value: Por favor seleccione una
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Error en el sitio Web
+          - Encargo
+          - Otra
       - input_type: textarea
         name: message
-        label: Message
-        default_value: Your message
+        label: Mensaje
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entiendo que este formulario guarda mi información de contacto para posteriormente ser contactado.
+    submit_label: Enviar mensaje
 seo:
-  title: Contact
-  description: This is the contact page
+  title: JCodeR Photography Contacto
+  description: Página de contacto de JCodeR Photography
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Página de contacto de JCodeR Photography
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Página de contacto de JCodeR Photography
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Página de contacto de JCodeR Photography
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Página de contacto de JCodeR Photography
 layout: advanced
 ---

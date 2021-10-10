@@ -5,6 +5,6 @@ image_alt: Thank You Led Signage
 layout: page
 ---
 
-Thank you for contacting us! We will get back in touch with you soon.
+Gracias por contactarme, responderé su mensaje tan pronto como me sea posible.
 
-**Have a great day!**
+**Le deseo un buen día**
