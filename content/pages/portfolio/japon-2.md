@@ -1,13 +1,13 @@
 ---
-title: Templo del oro
+title: Pabellon Dorado
 subtitle:
-date: '2019-05-11'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
-thumb_image_alt: 'Fotografía del templo del oro'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
-image_alt: 'Fotografía del templo del oro'
+date: '2019-05-12'
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-1.jpg
+thumb_image_alt: 'Fotografía del Pabellon Dorado'
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-1.jpg
+image_alt: 'Fotografía del Pabellon Dorado'
 seo:
-  title: Templo del oro
+  title: Pabellon Dorado
   description: Fotografías de mi portfolio
   extra:
     - name: 'og:type'
@@ -20,7 +20,7 @@ seo:
       value: Fotografías de mi portfolio
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Fotografías de mi portfolio
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-1.jpg
       relativeUrl: true
 layout: project
 ---

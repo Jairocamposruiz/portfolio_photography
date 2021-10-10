@@ -1,13 +1,13 @@
 ---
-title: Fushimi Inari-taisha
+title: Faro al atardecer
 subtitle:
 date: '2019-05-11'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
-thumb_image_alt: 'Fotografía del templo Fushimi Inari-taisha'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
-image_alt: 'Fotografía del templo Fushimi Inari-taisha'
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-1.jpg
+thumb_image_alt: 'Fotografía de faro al atardecer'
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-1.jpg
+image_alt: 'Fotografía de faro al atardecer'
 seo:
-  title: Fushimi Inari-taisha
+  title: Faro al atardecer
   description: Fotografías de mi portfolio
   extra:
     - name: 'og:type'
@@ -20,7 +20,7 @@ seo:
       value: Fotografías de mi portfolio
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,9 +30,9 @@ seo:
     - name: 'twitter:description'
       value: Fotografías de mi portfolio
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-1.jpg
       relativeUrl: true
 layout: project
 ---
 
-**Fotografía realizada en:**  *Kioto (Japon)*
+**Fotografía realizada en:**
