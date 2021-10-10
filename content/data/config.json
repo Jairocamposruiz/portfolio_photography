@@ -1,6 +1,7 @@
 {
     "title": "Mi portfolio fotográfico",
     "path_prefix": "/",
+    "favicon": "/favicon.icon",
     "color_scheme": "light",
     "accent_color": "blue",
     "header": {
