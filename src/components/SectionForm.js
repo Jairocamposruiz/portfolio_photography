@@ -1,4 +1,3 @@
-import Router from 'next/router';
 import React from 'react';
 import _ from 'lodash';
 
@@ -37,7 +36,6 @@ export default class SectionForm extends React.Component {
                             {...(formAction ? ({ action: formAction }) : null)}
                             action="https://www.jcoder.es/api/mail-portfolio"
                             method="post"
-                            onSubmit={() => Router.push('/thank-you')}
                         >
                             <div className="screen-reader-text">
                                 <label id={formHoneypotLabelId} htmlFor={formHoneypotInputId}>
@@ -57,7 +55,3 @@ export default class SectionForm extends React.Component {
         );
     }
 }
-
-//
-// data-netlify="true"
-// data-netlify-honeypot={formHoneypotName}
