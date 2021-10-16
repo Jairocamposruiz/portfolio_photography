@@ -2,7 +2,7 @@
 title: Víbora hocicuda
 subtitle:
 date: '2019-05-11'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/reptil-1.jpg
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-reptil-1.jpg
 thumb_image_alt: 'Fotografía de Víbora hocicuda'
 image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/reptil-1.jpg
 image_alt: 'Fotografía de Víbora hocicuda'
@@ -20,7 +20,7 @@ seo:
       value: Fotografías de mi portfolio
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/reptil-1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-reptil-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Fotografías de mi portfolio
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/reptil-1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-reptil-1.jpg
       relativeUrl: true
 layout: project
 ---

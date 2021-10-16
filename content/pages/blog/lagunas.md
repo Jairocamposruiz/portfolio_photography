@@ -3,7 +3,7 @@ title: Lagunas habitat de multitud de Aves
 excerpt: >-
   Pequeña escapada fotográfica para fotografiar a las aves que pueblan nuestras lagunas.
 date: '2021-02-15'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-10.jpg
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-10.jpg
 thumb_image_alt: Fotografia Lince Ibérico
 image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-10.jpg
 image_alt: Fotografia Lince Ibérico

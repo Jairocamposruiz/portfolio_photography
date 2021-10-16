@@ -3,7 +3,7 @@ title: Lince Ibérico en Sierra Morena
 excerpt: >-
   Acompáñame a ver el Lince Ibérico en su habitat, un felino en peligro de extición el cual puedes ver en Sierra Morena(Jaen)
 date: '2021-10-09'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/lince-iberico-3.jpg
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-lince-iberico-3.jpg
 thumb_image_alt: Fotografia Lince Ibérico
 image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/lince-iberico-3.jpg
 image_alt: Fotografia Lince Ibérico

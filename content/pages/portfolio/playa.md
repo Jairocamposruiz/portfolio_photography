@@ -2,7 +2,7 @@
 title: Playa de las catedrales
 subtitle:
 date: '2019-05-11'
-thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-9.jpg
+thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-paisaje-9.jpg
 thumb_image_alt: 'Fotografía de Playa de las Catedrales'
 image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-9.jpg
 image_alt: 'Fotografía de Playa de las Catedrales'
@@ -20,7 +20,7 @@ seo:
       value: Fotografías de mi portfolio
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-9.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-paisaje-9.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Fotografías de mi portfolio
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-9.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-paisaje-9.jpg
       relativeUrl: true
 layout: project
 ---

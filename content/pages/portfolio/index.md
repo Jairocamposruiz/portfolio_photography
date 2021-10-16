@@ -16,7 +16,7 @@ seo:
       value: Este es mi portfolio fotográfico
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-lince-iberico-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: Este es mi portfolio fotográfico
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/photo2.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-lince-iberico-1.jpg
       relativeUrl: true
 layout: portfolio
 ---
