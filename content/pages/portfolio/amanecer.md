@@ -4,7 +4,7 @@ subtitle:
 date: '2019-05-11'
 thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-paisaje-6.jpg
 thumb_image_alt: 'Fotografía de amanecer en Baeza'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/paisaje-6.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-paisaje-6.jpg
 image_alt: 'Fotografía de amanecer en Baeza'
 seo:
   title: Amanecer en Baeza

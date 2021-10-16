@@ -4,7 +4,7 @@ subtitle:
 date: '2019-05-11'
 thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-1.jpg
 thumb_image_alt: 'Fotografía de Gorrión Cantor'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-1.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-1.jpg
 image_alt: 'Fotografía de Gorrión Cantor'
 seo:
   title: Gorrión Cantor

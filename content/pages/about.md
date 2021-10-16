@@ -1,7 +1,7 @@
 ---
 title: Acerca de mi
 subtitle:
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/retrato-1.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-retrato-1.jpg
 image_alt: Mi foto
 seo:
   title: JCodeR Photography Acerca de mi
@@ -17,7 +17,7 @@ seo:
       value: Acerca de mi
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/retrato-1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-retrato-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Acerca de mi
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/retrato-1.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-retrato-1.jpg
       relativeUrl: true
 layout: page
 ---

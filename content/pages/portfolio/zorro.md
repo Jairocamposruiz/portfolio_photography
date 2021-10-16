@@ -4,7 +4,7 @@ subtitle:
 date: '2019-05-14'
 thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-mamifero-1.jpg
 thumb_image_alt: 'Fotografía de un zorro'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mamifero-1.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-mamifero-1.jpg
 image_alt: 'Fotografía de un zorro'
 seo:
   title: Zorro

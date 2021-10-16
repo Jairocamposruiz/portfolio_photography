@@ -5,7 +5,7 @@ excerpt: >-
 date: '2021-02-15'
 thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-10.jpg
 thumb_image_alt: Fotografia Lince Ibérico
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-10.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-10.jpg
 image_alt: Fotografia Lince Ibérico
 seo:
   title: Lagunas habitat de multitud de Aves
@@ -23,7 +23,7 @@ seo:
         Pequeña escapada fotográfica para fotografiar a las aves que pueblan nuestras lagunas.
       keyName: property
     - name: 'og:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-10.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-10.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -34,7 +34,7 @@ seo:
       value: >-
         Pequeña escapada fotográfica para fotografiar a las aves que pueblan nuestras lagunas.
     - name: 'twitter:image'
-      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-10.jpg
+      value: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-10.jpg
       relativeUrl: true
 layout: post
 ---
@@ -43,12 +43,12 @@ Soy de andalucía y la mayoría de las lagunas y embalses de mi zona se pasan gr
 y la sequía pero cuando no lo están me gusta poder hacer pequeñas escapadas fotográficas para poder fotografiar
 a la gran variedad de aves que pueblan estas.
 
-![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-8.jpg)
+![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-8.jpg)
 
-![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-9.jpg)
+![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-9.jpg)
 
-![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-4.jpg)
+![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-4.jpg)
 
-![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-3.jpg)
+![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-3.jpg)
 
-![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/ave-2.jpg)
+![Fotografia Lince Ibérico](https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-ave-2.jpg)

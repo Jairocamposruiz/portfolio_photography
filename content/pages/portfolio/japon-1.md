@@ -4,7 +4,7 @@ subtitle:
 date: '2019-05-11'
 thumb_image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-japon-2.jpg
 thumb_image_alt: 'Fotografía del templo Fushimi Inari-taisha'
-image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/japon-2.jpg
+image: https://jcoderbucket.s3.eu-west-2.amazonaws.com/JCodeR_Photography/mini-japon-2.jpg
 image_alt: 'Fotografía del templo Fushimi Inari-taisha'
 seo:
   title: Fushimi Inari-taisha
